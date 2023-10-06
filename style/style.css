@@ -1,0 +1,15 @@
+body{ /* alrgr b = {} */
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+.okenko{
+    background-color: azure;
+    margin: 16px; /* vnejsni odsazeni */
+    padding: 16px; /* vnitri odsazeni */
+    border: 1px solid aqua;
+    border-radius: 15px;
+    
+}
+
