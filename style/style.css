@@ -1,3 +1,18 @@
+header{
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    margin: 0;
+    padding: 16px;
+}
+
+ul{
+    margin: 0;
+    padding: 16px;  
+}
+
 body{ /* alrgr b = {} */
     margin: 0;
     padding: 0;
