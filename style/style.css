@@ -1,11 +1,52 @@
 header{
-    background-color: brown;
-    margin: 0;
-    padding: 0;
+    background-color: #331D2C;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 8px;
 }
 nav{
     margin: 0;
     padding: 16px;
+    background-color: #3F2E3E;
+    border-radius: 8px;
+    box-shadow: #EFE1D1 0px 1px 3px 0px, #EFE1D1 0px 1px 2px 0px;
+}
+
+.Home{
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.search{
+    background-color: #EFE1D1;
+    margin: 16px; /* vnejsni odsazeni */
+    padding: 16px; /* vnitri odsazeni */
+    border: 3px solid#A78295;
+    border-radius: 15px;
+    box-shadow: 5px 10px 20px #331D2C;
+}
+
+.button-2 {
+  background-color: #3F2E3E;
+  border-radius: 8px;
+  border-width: 0;
+  color: #EFE1D1;
+  font-size: 14px;
+  font-weight: 500px;
+  line-height: 20px;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+}
+
+
+main{
+    background-color: #A78295;
+    margin: 16px; /* vnejsni odsazeni */
+    padding: 16px; /* vnitri odsazeni */
+    border: 1px;
+    border-radius: 15px;  
 }
 
 ul{
@@ -16,15 +57,19 @@ ul{
 body{ /* alrgr b = {} */
     margin: 0;
     padding: 0;
-    background-color: bisque;
+    background-color: #EFE1D1;
 }
 
 .okenko{
-    background-color: azure;
+    background-color: #EFE1D1;
     margin: 16px; /* vnejsni odsazeni */
     padding: 16px; /* vnitri odsazeni */
-    border: 1px solid aqua;
+    border: 1px solid#3F2E3E;
     border-radius: 15px;
-    
+    box-shadow: 5px 10px 20px #331D2C;
 }
 
+a{
+    color: #ffe4e4;
+    text-decoration: none;
+}
